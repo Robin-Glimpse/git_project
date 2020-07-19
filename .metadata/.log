@@ -1,0 +1,105 @@
+!SESSION 2020-07-13 00:13:40.668 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/mdarifuzzaman/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/mdarifuzzaman/Desktop/git_test -product org.eclipse.epp.package.java.product -keyring /Users/mdarifuzzaman/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-07-13 00:13:47.932
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 00:15:55.796
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 00:15:55.803
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2020-07-13 00:18:34.184 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/mdarifuzzaman/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/mdarifuzzaman/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-07-13 00:18:41.316
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.testng.eclipse 4 0 2020-07-13 14:50:53.667
+!MESSAGE <enabledWhen> element is required. Disabling org.testng.eclipse.codemining.testngProvider
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:50:54.993
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:50:54.998
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:51:33.281
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:51:33.284
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:51:47.191
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:51:47.196
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:53:04.002
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:53:04.006
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:57:34.505
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:57:34.509
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:58:06.339
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:58:06.342
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:58:21.535
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 14:58:21.546
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-07-13 14:58:21.864
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/mdarifuzzaman/Desktop/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/964/0/.cp/lib/testng-remote.jar /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/test-classes /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/classes /Users/mdarifuzzaman/.p2/pool/plugins/org.testng_7.2.0.r202003151902.jar /Users/mdarifuzzaman/.p2/pool/plugins/com.beust.jcommander_1.72.0.jar /Users/mdarifuzzaman/.p2/pool/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Users/mdarifuzzaman/.p2/pool/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar /Users/mdarifuzzaman/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar /Users/mdarifuzzaman/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar /Users/mdarifuzzaman/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar /Users/mdarifuzzaman/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar /Users/mdarifuzzaman/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar /Users/mdarifuzzaman/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar /Users/mdarifuzzaman/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar /Users/mdarifuzzaman/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar /Users/mdarifuzzaman/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62272 -protocol json -d /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/test-output /var/folders/pk/9llg5bp95hl55x_vkp2m774m0000gn/T/testng-eclipse-1816976747/testng-customsuite.xml
+java -ea -classpath /Users/mdarifuzzaman/Desktop/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/964/0/.cp/lib/testng-remote.jar:/Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/test-classes:/Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/classes:/Users/mdarifuzzaman/.p2/pool/plugins/org.testng_7.2.0.r202003151902.jar:/Users/mdarifuzzaman/.p2/pool/plugins/com.beust.jcommander_1.72.0.jar:/Users/mdarifuzzaman/.p2/pool/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Users/mdarifuzzaman/.p2/pool/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/mdarifuzzaman/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/mdarifuzzaman/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/mdarifuzzaman/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/mdarifuzzaman/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/mdarifuzzaman/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/mdarifuzzaman/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/mdarifuzzaman/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/mdarifuzzaman/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/mdarifuzzaman/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 62272 -protocol json -d /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/test-output /var/folders/pk/9llg5bp95hl55x_vkp2m774m0000gn/T/testng-eclipse-1816976747/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 15:06:22.975
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 15:06:22.979
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 15:07:17.293
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 15:07:17.301
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2020-07-13 15:07:23.273
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/mdarifuzzaman/Desktop/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/964/0/.cp/lib/testng-remote.jar /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/test-classes /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/classes /Users/mdarifuzzaman/.p2/pool/plugins/org.testng_7.2.0.r202003151902.jar /Users/mdarifuzzaman/.p2/pool/plugins/com.beust.jcommander_1.72.0.jar /Users/mdarifuzzaman/.p2/pool/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Users/mdarifuzzaman/.p2/pool/plugins/org.yaml.snakeyaml_1.21.0.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar /Users/mdarifuzzaman/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar /Users/mdarifuzzaman/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar /Users/mdarifuzzaman/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar /Users/mdarifuzzaman/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar /Users/mdarifuzzaman/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar /Users/mdarifuzzaman/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar /Users/mdarifuzzaman/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar /Users/mdarifuzzaman/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar /Users/mdarifuzzaman/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar /Users/mdarifuzzaman/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62285 -protocol json -d /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/test-output /var/folders/pk/9llg5bp95hl55x_vkp2m774m0000gn/T/testng-eclipse-2081293785/testng-customsuite.xml
+java -ea -classpath /Users/mdarifuzzaman/Desktop/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/964/0/.cp/lib/testng-remote.jar:/Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/test-classes:/Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/target/classes:/Users/mdarifuzzaman/.p2/pool/plugins/org.testng_7.2.0.r202003151902.jar:/Users/mdarifuzzaman/.p2/pool/plugins/com.beust.jcommander_1.72.0.jar:/Users/mdarifuzzaman/.p2/pool/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Users/mdarifuzzaman/.p2/pool/plugins/org.yaml.snakeyaml_1.21.0.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/mdarifuzzaman/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/mdarifuzzaman/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/mdarifuzzaman/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/mdarifuzzaman/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/mdarifuzzaman/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/mdarifuzzaman/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/mdarifuzzaman/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/mdarifuzzaman/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/mdarifuzzaman/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/mdarifuzzaman/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar org.testng.remote.RemoteTestNG -serport 62285 -protocol json -d /Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/test-output /var/folders/pk/9llg5bp95hl55x_vkp2m774m0000gn/T/testng-eclipse-2081293785/testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 15:36:06.035
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-13 15:36:06.043
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

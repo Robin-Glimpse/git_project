@@ -1,0 +1,35 @@
+package com.osa.base;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+@Test
+public class Browser {
+	 WebDriver dr;
+	
+	
+public void opneBrowser() throws IOException {
+	
+    dr = new  ChromeDriver();
+    
+	FileInputStream fs = new FileInputStream ("/Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/src/file.properties");
+	Properties p = new Properties();
+	p.load(fs);
+	p.getProperty("Browser");
+	System.out.println(p);
+	
+	if(p.equals("Chrome.")){
+		System.setProperty("webdriver.chromedriver.driver", "/Users/mdarifuzzaman/Desktop");
+		dr.get("https://osaconsultingtech.com/");
+		
+	}
+	
+	
+}
+
+}

@@ -1,0 +1,22 @@
+package com.osa.base;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+public class Browser {
+	
+	
+	
+public void opneBrowser() throws IOException {
+	
+	FileInputStream fs = new FileInputStream ("/Users/mdarifuzzaman/Desktop/git_test/OSA_Pre_Stage/Prestage/src/file.properties");
+	Properties p = new Properties();
+	p.load(fs);
+	
+	
+	
+}
+
+}
